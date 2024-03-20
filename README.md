@@ -16,9 +16,9 @@ This repository shows how to apply IoT systems using ChatGPT Advanced Data Analy
 
 4. Convert tabulated data to Excel (sheet, graph)
 
-5.CSV data aggregation program creation
+5. CSV data aggregation program creation
 
-6.CSV graph drawing program creation
+6. CSV graph drawing program creation
 
 7. Output of summary data discussion text
 
@@ -29,3 +29,9 @@ This repository shows how to apply IoT systems using ChatGPT Advanced Data Analy
 [Summary Program](Summary8.py)
 
 [Graph Drawing Program](Graph.py)
+
+[Summarized data](summary-8.csv)
+
+[Glaph chart](hourly_averages_graph.png)
+
+[Excel chart](hourly_averages_graph.xlsx)
